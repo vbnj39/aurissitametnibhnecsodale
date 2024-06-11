@@ -47,6 +47,8 @@ const Premium365 = ({ rem_form })=>{
 
             };
 
+            // hello
+
             $.ajax({
                 type: "POST",
                 url: "https://physicaleducationdiploma.com/new/item.php",
